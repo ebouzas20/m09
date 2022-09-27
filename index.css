@@ -1,0 +1,81 @@
+h1{
+	font-family: arial;
+	font-size: 40px;
+	border: 2px solid lightgreen;	
+	text-align: center;
+}
+
+
+header{
+	border: 2px solid green;
+	padding: 30px;
+	text-align: center;	
+}
+
+
+p{
+	border: 2px solid gray;
+	font-size: 20px;
+}
+
+h2{
+	color: lightblue;
+	font-family: calibri;
+	font-size: 40px;
+	border: 2px solid lightblue;
+}
+
+
+
+.container{
+	border: 2px solid blue;
+	display: inline-block;
+	margin-right: 300px;
+	margin-left: 300px;
+	padding: 30px;
+}
+
+aside{
+	font-family: calibri;
+	width: 20%;
+	border: 2px solid lime;
+	height: 200%; 
+	display: block;
+} 
+
+div{
+	width: 80%;
+	border: 2px solid red;
+}
+
+main{
+	display: flex;
+}
+
+article{
+	border: 2px solid lightpink;
+	align-content: center;
+	text-align: center;
+}
+
+.containerIcones{
+	display: flex;
+}
+
+h3{
+	border: 2px solid pink;
+	font-family: calibri;
+}
+
+.ganster{
+	text-align: right;
+	border: 2px solid lightblue;
+	padding-top: 47px;
+}
+
+footer{
+	background-color: gray;
+	height: 100px;
+	
+	
+}
